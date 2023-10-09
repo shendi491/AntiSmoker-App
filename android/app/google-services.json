@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59923640514",
+    "project_id": "smoke-detection-system-393112",
+    "storage_bucket": "smoke-detection-system-393112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59923640514:android:e78c337793298c8d4d0b5b",
+        "android_client_info": {
+          "package_name": "com.example.AntiSmoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59923640514-3ngu9f77copop2t46hqkvtjo6g8fu2lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3TZ5L2Z9oz1jJ2L6uPqGALs61MDd3SWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59923640514-3ngu9f77copop2t46hqkvtjo6g8fu2lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
